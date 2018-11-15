@@ -2,7 +2,7 @@ Would like to apply to a position at Soltius? You came to the right place!
 
 # The Challenge - Cloud Engineer
 
-**Please provide code snippets for all steps, you can also share some screenshots or not.**
+**Please provide code snippets for all steps, you can also share some screenshots or not (limit yourself to just a few only).**
 
 We would like to see you deploying a two layer application architecture. You have to build everything from scratch, starting from the basics like networking, servers and firewall rules and work your way up to monitoring and log collection.
 
